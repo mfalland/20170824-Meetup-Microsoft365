@@ -60,4 +60,5 @@ You can have a browser view, but you also have desktop clients across platforms 
 * Exchange Online / Profile Pictures
 * Limit the people who can create Teams (https://support.office.com/en-us/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618?ui=en-US&rs=en-US&ad=US)
 * Office Group naming convention is not enforced by teams
+* Planner is different from Planner
 
