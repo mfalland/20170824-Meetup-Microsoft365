@@ -9,12 +9,13 @@ You can have a browser view, but you also have desktop clients across platforms 
 * An Office 365 Group ("Unified Group") will be created
 * A SharePoint Site Collection is created, unvisible in the SharePoint Admin Center
 * A Mailbox is created
+* An OneNote-Notebook is created
 
 ## Office 365 Admin Center
 * Partial Administration, some settings on channel only
 * No automation, but PowerShell-Module "under development" according to User Voice (https://microsoftteams.uservoice.com/forums/555103-public)
 
-# Teams Walk Through
+# Teams Walkthrough
 ## GUI Demonstration
 ## Create a Team
 * Add Members
@@ -55,7 +56,7 @@ You can have a browser view, but you also have desktop clients across platforms 
 ## Connectors
 * With connectors, you can bring in a lot of external services
 * For posting to Teams, you can use Webhooks
-# Notes from the field
+# Other Notes from the field
 * Exchange Online / Profile Pictures
 * Limit the people who can create Teams (https://support.office.com/en-us/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618?ui=en-US&rs=en-US&ad=US)
 * Office Group naming convention is not enforced by teams
