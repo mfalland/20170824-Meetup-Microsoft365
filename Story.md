@@ -11,4 +11,12 @@ You can have a browser view, but you also have desktop clients across platforms 
 * A Mailbox is created
 
 ## Office 365 Admin Center
+* Partial Administration, some settings on channel only
+* No automation, but PowerShell-Module "under development" according to User Voice (https://microsoftteams.uservoice.com/forums/555103-public)
+
+# Teams Walk Through
+## GUI Demonstration
+## Create a Team
+* Add Members
+* If you are an Administrator, you can convert an existing Office 365 Group to a Team
 * 
